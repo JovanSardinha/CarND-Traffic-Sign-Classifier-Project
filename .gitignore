@@ -4,3 +4,4 @@ data
 *.swp
 *.p
 .CarND/
+.DS_Store
